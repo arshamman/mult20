@@ -1,2 +1,2 @@
 # mult_10_numbers
-This program calculates multiply of 50 numbers
+This program calculates multiplication of 10 numbers
