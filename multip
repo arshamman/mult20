@@ -3,6 +3,7 @@ clc
 sum=1
 %for i=1:10
 %changed this part to 20
+for i=1:20
   sum=sum*i
 end
 sum
